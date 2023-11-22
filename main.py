@@ -1,5 +1,6 @@
 def my_function():
     print('Нужно решать задачи')
+    print(2)
 
 
 def main():
