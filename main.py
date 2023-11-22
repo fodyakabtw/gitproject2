@@ -1,3 +1,4 @@
+# Nikolaev A.A.
 def my_function():
     print('Нужно решать задачи')
 
